@@ -2,11 +2,11 @@
 This project is impletmenting classification tree and classifify the data based on maximum impurity reduction. This project support building single tree, pruning tree, cross validation for pruning, random forest and prediction. 
 
 ## Included files
-[Classification_tree.py] https://github.com/36-750/assignments-KylieH1314/blob/master/classification-tree/classification_tree.py
-[test_classification_tree.py] https://github.com/36-750/assignments-KylieH1314/blob/master/classification-tree/test_classification_tree.py
-[SQL.py] https://github.com/36-750/assignments-KylieH1314/blob/master/classification-tree/SQL.py
-[SQL_test.py] https://github.com/36-750/assignments-KylieH1314/blob/master/classification-tree/SQL_test.py
-[Benchmark.ipynb] https://github.com/36-750/assignments-KylieH1314/blob/master/classification-tree/Benchmark.ipynb
+* [Classification_tree.py] https://github.com/36-750/assignments-KylieH1314/blob/master/classification-tree/classification_tree.py
+* [test_classification_tree.py] https://github.com/36-750/assignments-KylieH1314/blob/master/classification-tree/test_classification_tree.py
+* [SQL.py] https://github.com/36-750/assignments-KylieH1314/blob/master/classification-tree/SQL.py
+* [SQL_test.py] https://github.com/36-750/assignments-KylieH1314/blob/master/classification-tree/SQL_test.py
+* [Benchmark.ipynb] https://github.com/36-750/assignments-KylieH1314/blob/master/classification-tree/Benchmark.ipynb
 
 ## Structure
 * Build a single tree by splitting dataset at maxiumum reduction point
